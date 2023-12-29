@@ -1,7 +1,7 @@
 # script-setupserver
 
-Ini adalah Script Bash sederhana untuk Auto-Install Server.<br>
-List setup server :
+<p>Ini adalah Script Bash sederhana untuk Auto-Install Server.<br></p>
+<p>List setup server :</p>
 
 1. Timezone Asia/Jakarta
 2. Update & Upgrade
