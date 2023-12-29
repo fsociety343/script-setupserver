@@ -1,6 +1,6 @@
 # script-setupserver
 
-Ini adalah Script Bash sederhana untuk Auto-Install Server
+Ini adalah Script Bash sederhana untuk Auto-Install Server.<br>
 List setup server :
 
 1. Timezone Asia/Jakarta
